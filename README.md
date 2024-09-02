@@ -11,7 +11,6 @@ This project is a deep learning-based application that recognizes handwritten di
 - [Augmentation](#augmentation)
 - [Streamlit App](#streamlit-app)
 - [Files](#files)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
 
@@ -43,18 +42,6 @@ A Streamlit app has been created for user interaction. Users can either draw cha
 - **app.py**: Contains the code for the Streamlit app.
 - **ab.png and AD.png**: Sample images used to test the model.
 - **model.keras**: The trained model with 80% accuracy.
-
-## Usage
-1. Clone the repository.
-2. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the Streamlit app:
-    ```bash
-    streamlit run app.py
-    ```
-4. Interact with the app by either drawing characters using the canvas or uploading an image.
 
 ## Results
 The trained model achieves an accuracy of 80%. The app is capable of recognizing handwritten digits and characters effectively.
