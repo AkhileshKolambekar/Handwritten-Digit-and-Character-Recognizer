@@ -19,7 +19,7 @@ This project is a deep learning-based application that recognizes handwritten di
 ## Overview
 This project involves the creation of a deep learning model to recognize handwritten digits and characters. The model is trained on a dataset of English handwritten characters and can identify both digits and alphabets (uppercase and lowercase). The model is deployed using a Streamlit app, where users can either draw characters using a drawable canvas or upload an image for recognition.
 
-##Working
+## Working
 ![proj](https://github.com/user-attachments/assets/ce9554ee-494a-4e99-bcc9-b918f8d15db6)
 
 ## Dataset
